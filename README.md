@@ -1,5 +1,3 @@
-# Bartlett
-
 5 main files corresponding to Tables 1-5 in the main body respectively:
 
 Vstat_gamma.m
