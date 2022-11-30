@@ -6,6 +6,10 @@ OptBartlett.m
 MVopt.m
 MVoptChi.m
 
+Mathematica file for the computation in Section C.2:
+
+DRO_Bartlett_revised.nb
+
 Explanation of parameters:
 
 ns: the list of sample size considered. For example, for Vstat_gamma.m, it is set as [15,30] which are the sample sizes considered in Table 1.
